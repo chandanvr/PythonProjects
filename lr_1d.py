@@ -7,4 +7,4 @@ for line in open('data_1d.csv'):
     x,y = line.split(',')
     X.append(float(x))
     Y.append(float(y))
-    print("hello !!!")
+    print("hello !!!");;
